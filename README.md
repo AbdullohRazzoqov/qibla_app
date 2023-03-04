@@ -1,5 +1,5 @@
 # qibla_app
-
+##Ishlatish uchun tafsiya qininmaydi xatoliklari  bo'lishi mumkun
 A new Flutter project.
 
 ## Getting Started
